@@ -1,0 +1,13 @@
+name: OriginsMC
+author: Realgotqkura
+version: 1.0
+main: com.realgotqkura.origins.OriginsMain
+api-version: "1.17"
+
+commands:
+  originsOpenGUI:
+    description: "Opens the origin gui"
+  getPlayerOrigins:
+    description: "Returns all of the players and their origins"
+  gettoken:
+    description: "Gives you a rebirth token lmao"
